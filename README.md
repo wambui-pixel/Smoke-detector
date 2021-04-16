@@ -21,7 +21,8 @@ Load resistance:	20 KΩ,
 Heater resistance:	33Ω ± 5%,
 Heating consumption:	<800mw,
 Sensing Resistance:	10 KΩ – 60 KΩ,
-Concentration Scope:	200 – 10000ppm
+Concentration Scope:	200 – 10000ppm,
+Preheat duration: 20 seconds
 
 **Pin-out**
 
