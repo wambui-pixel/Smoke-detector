@@ -3,7 +3,7 @@
 ## Introduction
 
 The project involves coming up with a smoke detector with notifications through the Blynk appplication.
-It can be used to detect air quality especially in offices.
+It can be used to detect air quality especially in offices, detecting gas leaks among other applications
 
 ## Components
 
