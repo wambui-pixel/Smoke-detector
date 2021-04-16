@@ -16,11 +16,11 @@ Several jumper-wires
 
 ### MQ-2 Smoke Dectector
 
-Operating voltage:	5V
-Load resistance:	20 KΩ
-Heater resistance:	33Ω ± 5%
-Heating consumption:	<800mw
-Sensing Resistance:	10 KΩ – 60 KΩ
+Operating voltage:	5V,
+Load resistance:	20 KΩ,
+Heater resistance:	33Ω ± 5%,
+Heating consumption:	<800mw,
+Sensing Resistance:	10 KΩ – 60 KΩ,
 Concentration Scope:	200 – 10000ppm
 
 **Pin-out**
