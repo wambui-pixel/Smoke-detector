@@ -7,10 +7,14 @@ It can be used to detect air quality especially in offices, detecting gas leaks 
 
 ## Components
 
+**Hardware**
 1 NodeMCU,
 1 MQ-2 smoke-detector,
 1 Breadboard,
 Several jumper-wires
+
+**Software**
+Blynk app
 
 ## Specifications
 
