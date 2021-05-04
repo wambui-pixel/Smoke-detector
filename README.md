@@ -34,3 +34,6 @@ VCC: +3~5V,
 GND: Ground,
 D0: Digital Out,
 A0: Analog Out
+
+## Breadboard Layout
+![breadboard layout](Fritzing/Smoke%20Detector_bb.png)
